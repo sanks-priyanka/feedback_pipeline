@@ -9,3 +9,5 @@
 
 Probelms:
 Some records have null values in the user_id, user_email, and user_name columns because user information is missing. Additionally, each file uses different columns to represent user information.
+
+Databricks Notebook - https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/3896924895233349/436592318406451/7978228461053878/latest.html
